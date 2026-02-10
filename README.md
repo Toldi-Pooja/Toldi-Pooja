@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Pooja 👋
 
-<!--
-**Toldi-Pooja/Toldi-Pooja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student  
+💻 Interested in Python, Machine Learning & Problem Solving  
+🚀 Building projects and strengthening DSA fundamentals  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 My Projects
+
+- 🏠 **House Price Prediction**  
+  Machine learning model to predict housing prices using Python.
+
+- 🏥 **Health Care Analysis Project**  
+  Data analysis using Jupyter Notebook for healthcare insights.
+
+- 🎮 **Rock Paper Scissors Game**  
+  Interactive JavaScript-based mini project.
+
+- 📘 **LevelUpCoding**  
+  Python practice repository covering Sorting, Recursion, Patterns & Logic problems.
+
+---
+
+## 🔧 Skills
+- Python
+- Basic Machine Learning
+- Data Analysis (Jupyter Notebook)
+- HTML, CSS
+- JavaScript Basics
+- DSA Fundamentals
+
+---
+
+## 📈 Currently Learning
+- Advanced Data Structures
+- React.js
+- Real-world ML applications
+
+---
+
+✨ Consistently learning and improving.
